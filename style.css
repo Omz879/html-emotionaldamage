@@ -1,0 +1,21 @@
+html {
+    text-align:center;
+}
+div {
+    width:50%;
+    margin-left:25%;
+    margin-top:100px;
+}
+video {
+    border: 5px solid white;
+    width:100%;
+}
+h1 {
+    text-transform: uppercase;
+    color:white;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
+p {
+    color:white;
+}
